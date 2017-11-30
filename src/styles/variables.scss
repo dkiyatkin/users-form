@@ -1,0 +1,13 @@
+// bootstrap variables
+
+$enable-shadows: true !default;
+$enable-gradients: true !default;
+
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+
+// app variables
+
+$uf-test-border: 1px dashed orange;
+$uf-circleBtn-size: 70px;

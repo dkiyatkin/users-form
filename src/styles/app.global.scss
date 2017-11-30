@@ -1,0 +1,13 @@
+@import '~ufSrc/styles/variables';
+
+html {
+  min-width: 600px;
+}
+
+button {
+  cursor: pointer;
+}
+
+button[disabled] {
+  cursor: not-allowed;
+}

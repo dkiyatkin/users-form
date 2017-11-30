@@ -1,0 +1,18 @@
+.userItem {
+  .btn {
+    text-decoration: none;
+    padding: 0;
+    border: 0;
+
+    .btnDiv {
+      margin-top: -1px;
+      margin-bottom: -1px;
+    }
+    .btnIcon {
+      min-width: 18px;
+    }
+    .btnSpan {
+      border-bottom: 1px dashed;
+    }
+  }
+}

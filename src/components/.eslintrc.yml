@@ -1,0 +1,7 @@
+extends:
+  - standard-react
+rules:
+  react/jsx-no-bind: 0
+  jsx-quotes:
+    - error
+    - prefer-single

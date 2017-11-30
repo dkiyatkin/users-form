@@ -1,0 +1,15 @@
+@import '~ufSrc/styles/variables.scss';
+
+.circleBtnDiv {
+  position: absolute;
+  right: $uf-circleBtn-size*1.5;
+}
+
+.circleBtn {
+  width: $uf-circleBtn-size;
+  height: $uf-circleBtn-size;
+  font-size: 24px;
+  border-radius: 50%;
+  position: fixed;
+  bottom: $uf-circleBtn-size/1.5;
+}
